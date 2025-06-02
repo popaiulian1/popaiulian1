@@ -1,6 +1,7 @@
 # Hi there, I'm Iulian 👋
 
-🚀 About Me  
+About Me 🚀  
+
 I'm a Computer Science student.
 
 ## 📈 GitHub Stats
